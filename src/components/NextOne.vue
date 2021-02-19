@@ -1,6 +1,6 @@
 <template>
     <div>
-
+<h1>Prochaines bouteilles</h1>
     </div>
 </template>
 

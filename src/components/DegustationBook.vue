@@ -1,6 +1,6 @@
 <template>
     <div>
-
+<h1>Carnet de dégustation</h1>
     </div>
 </template>
 
