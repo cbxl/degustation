@@ -38,5 +38,17 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "```\r yarn install\r ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbxl/degustation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbxl/degustation/issues"
+  },
+  "homepage": "https://github.com/cbxl/degustation#readme"
 }
